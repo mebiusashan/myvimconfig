@@ -34,4 +34,5 @@ cd vimcdoc-2.1.0
 echo "安装vim中文文档"
 ./vimcdoc.sh -i
 
-
+# 配色
+# http://www.vim.org/scripts/download_script.php?src_id=9750
